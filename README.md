@@ -20,7 +20,7 @@ To start learning JavaFX, follow these steps:
 4. **Clone this Repository:** Clone or download this repository to your local machine. You can use the following command if you have Git installed:
 
     ```
-    git clone https://github.com/your-username/javafx-learning.git
+    git clone https://github.com/Asadullah-Imran/javafx-learning.git
     ```
 
 4. **Explore the Examples:** This repository contains various examples and projects to help you understand different aspects of JavaFX. Start with the basic examples and gradually move on to more advanced topics.
